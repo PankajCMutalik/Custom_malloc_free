@@ -1,1 +1,2 @@
 # Custom_malloc_free
+This code implements a simplified version of memory allocation and deallocation using a custom malloc and free system within a simulated heap. It divides a 128KB heap into smaller, 1KB blocks and manages memory allocation using these blocks. The goal is to allocate the best-fit block of memory for each request, while avoiding double allocation or freeing of the same block consecutively.
