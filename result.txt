@@ -1,0 +1,5 @@
+Allocated 1KB at address: 0x404060
+Allocated 1KB at address: 0x404460
+Freed memory at address: 0x404060
+Freed memory at address: 0x404460
+Freed memory at address: (nil)
